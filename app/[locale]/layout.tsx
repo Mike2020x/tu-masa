@@ -22,6 +22,7 @@ export const metadata: Metadata = {
 };
 
 import DeliveryBanner from "@/components/delivery-banner";
+import Navbar from "@/components/navbar";
 
 
 export default async function RootLayout({
@@ -46,7 +47,10 @@ export default async function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased font-sans`}
       >
         <NextIntlClientProvider messages={messages}>
-          <DeliveryBanner />
+          <div className="fixed top-0 w-full z-50 flex flex-col">
+            <DeliveryBanner />
+            <Navbar />
+          </div>
           {children}
         </NextIntlClientProvider>
       </body>
