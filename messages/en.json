@@ -1,0 +1,47 @@
+{
+    "Navbar": {
+        "home": "Home",
+        "products": "Products",
+        "benefits": "Benefits",
+        "contact": "Contact"
+    },
+    "Hero": {
+        "title": "Fresh Dough Ready to Bake",
+        "subtitle": "Delicious artisanal dough delivered to your door. Just bake and enjoy.",
+        "cta": "View Products"
+    },
+    "Products": {
+        "title": "Our Products",
+        "subtitle": "Doughs for every occasion",
+        "description": "Select the perfect dough for your next culinary creation. All our doughs are made with fresh, high-quality ingredients.",
+        "pandeyuca": "Pandeyuca Dough",
+        "pandeyucaDesc": "Fermented dough ready to stretch and fill. Guaranteed crispy texture.",
+        "bunuelos": "Buñuelos Dough",
+        "bunuelosDesc": "Flaky and buttery. Perfect for special breakfasts.",
+        "pandebono": "Pandebono Dough",
+        "pandebonoDesc": "Rustic homemade bread. Ideal to accompany any meal.",
+        "order": "Order Now",
+        "bestSeller": "Best Seller",
+        "premium": "Premium",
+        "classic": "Classic"
+    },
+    "Benefits": {
+        "title": "Why Choose Us",
+        "fresh": "Fresh Ingredients",
+        "freshDesc": "We use only the best natural ingredients.",
+        "easy": "Easy to Use",
+        "easyDesc": "Ready to bake, no hassle.",
+        "delivery": "Fast Delivery",
+        "deliveryDesc": "Straight to your door in optimal conditions.",
+        "love": "Made with Love",
+        "loveDesc": "Each batch is prepared with dedication."
+    },
+    "Contact": {
+        "title": "Contact Us",
+        "subtitle": "Ready to order? Chat with us on WhatsApp!",
+        "cta": "Chat on WhatsApp"
+    },
+    "WhatsApp": {
+        "label": "Chat on WhatsApp"
+    }
+}

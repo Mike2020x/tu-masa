@@ -1,0 +1,47 @@
+{
+    "Navbar": {
+        "home": "Inicio",
+        "products": "Productos",
+        "benefits": "Beneficios",
+        "contact": "Contacto"
+    },
+    "Hero": {
+        "title": "Masa Fresca Lista para Hornear",
+        "subtitle": "Deliciosas masas artesanales entregadas en tu puerta. Solo hornea y disfruta.",
+        "cta": "Ver Productos"
+    },
+    "Products": {
+        "title": "Nuestros Productos",
+        "subtitle": "Masas para cada ocasión",
+        "description": "Selecciona la masa perfecta para tu próxima creación culinaria. Todas nuestras masas son elaboradas con ingredientes frescos de alta calidad.",
+        "pandeyuca": "Masa para Pandeyuca",
+        "pandeyucaDesc": "Masa fermentada lista para estirar y rellenar. Textura crujiente garantizada.",
+        "bunuelos": "Masa para Buñuelos",
+        "bunuelosDesc": "Hojaldrada y mantecosa. Perfecta para desayunos especiales.",
+        "pandebono": "Masa para Pandebono",
+        "pandebonoDesc": "Pan rústico casero. Ideal para acompañar cualquier comida.",
+        "order": "Ordenar",
+        "bestSeller": "Más vendido",
+        "premium": "Premium",
+        "classic": "Clásico"
+    },
+    "Benefits": {
+        "title": "Por qué elegirnos",
+        "fresh": "Ingredientes Frescos",
+        "freshDesc": "Usamos solo los mejores ingredientes naturales.",
+        "easy": "Fácil de Usar",
+        "easyDesc": "Listo para hornear, sin complicaciones.",
+        "delivery": "Entrega Rápida",
+        "deliveryDesc": "Directo a tu puerta en condiciones óptimas.",
+        "love": "Hecho con Amor",
+        "loveDesc": "Cada lote es preparado con dedicación."
+    },
+    "Contact": {
+        "title": "Contáctanos",
+        "subtitle": "¿Listo para ordenar? ¡Escríbenos por WhatsApp!",
+        "cta": "Chatear por WhatsApp"
+    },
+    "WhatsApp": {
+        "label": "Chat en WhatsApp"
+    }
+}
