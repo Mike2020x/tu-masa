@@ -50,7 +50,7 @@ export default function Hero() {
           <div className="relative hidden md:block animate-in slide-in-from-right-10 duration-1000 fade-in delay-200">
             <div className="relative z-10 rounded-[2.5rem] overflow-hidden shadow-2xl rotate-3 hover:rotate-0 transition-transform duration-500 border-8 border-white h-[600px]">
               <Image
-                src="/fresh-baked-pastries-bread-dough.jpg"
+                src="/hero.jpg"
                 alt="Masas frescas"
                 fill
                 className="object-cover transform hover:scale-105 transition-transform duration-700"
