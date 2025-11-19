@@ -21,6 +21,10 @@ export const metadata: Metadata = {
   description: "Masas frescas y deliciosas listas para hornear. Pizzas, panes, croissants, galletas y más. Entrega a domicilio.",
 };
 
+import DeliveryBanner from "@/components/delivery-banner";
+
+// ...
+
 export default async function RootLayout({
   children,
   params,
@@ -45,6 +49,7 @@ export default async function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased font-sans`}
       >
         <NextIntlClientProvider messages={messages}>
+          <DeliveryBanner />
           {children}
         </NextIntlClientProvider>
       </body>

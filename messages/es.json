@@ -43,5 +43,8 @@
     },
     "WhatsApp": {
         "label": "Chat en WhatsApp"
+    },
+    "DeliveryBanner": {
+        "message": "⚠️ Solo se hacen domicilios a Pereira y Dosquebradas, Risaralda ⚠️"
     }
 }

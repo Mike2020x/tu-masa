@@ -43,5 +43,8 @@
     },
     "WhatsApp": {
         "label": "Chat on WhatsApp"
+    },
+    "DeliveryBanner": {
+        "message": "⚠️ Delivery only available in Pereira and Dosquebradas, Risaralda ⚠️"
     }
 }
