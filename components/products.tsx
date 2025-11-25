@@ -96,7 +96,7 @@ export default function Products() {
                     </span>
                   </div>
                   <a
-                    href="https://wa.me/+573226284727"
+                    href="https://wa.me/+573004447056"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-gray-900 text-white px-6 py-3 rounded-xl font-bold hover:bg-primary transition-colors flex items-center gap-2 shadow-lg shadow-gray-900/20 hover:shadow-primary/30"
