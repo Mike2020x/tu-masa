@@ -27,7 +27,7 @@ export default function Contact() {
           </p>
           
           <a
-            href="https://wa.me/+573226284727"
+            href="https://wa.me/+573004447056"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 bg-[#25D366] text-white px-10 py-5 rounded-full font-bold text-lg hover:bg-[#128C7E] transition-all duration-300 shadow-xl hover:shadow-2xl hover:-translate-y-1 group"
