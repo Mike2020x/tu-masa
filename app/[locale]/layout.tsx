@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "MasaFresh - Masa Lista para Hornear",
-  description: "Masas frescas y deliciosas listas para hornear. Pizzas, panes, croissants, galletas y más. Entrega a domicilio.",
+  description: "Masas frescas y deliciosas listas para hornear.",
 };
 
 import DeliveryBanner from "@/components/delivery-banner";
